@@ -1,0 +1,28 @@
+name: CharlieWorld
+favicon: null
+layout_spectrum: 0.6991555052809417
+typography_spectrum: 0.7712057780008763
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8284235526807606
+  lightness: 0.533126343972981
+  saturation: 0.22955654142424464
+  rhythmicContrast: 0.9912759165745229
+purpose: []
